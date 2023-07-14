@@ -9,7 +9,7 @@ class Em extends Programmer {
 		RideSharing: "Research ultilising machine learning to examine and optimise ridesharing dynamics",
 		MyPreMed: "Open-sourced platform that provides free access regarding medical school admissions requirements",
 		Blockchain: "Fundamentals of Blockchain implemented in GoLang"
-	}
+	};
     
 	constructor() {
 		super("Java"); // programmer constructor takes a main language parameter
