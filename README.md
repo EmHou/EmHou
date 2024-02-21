@@ -14,7 +14,7 @@ class Em extends Programmer {
 	constructor() {
 		super("Java"); // programmer constructor takes a main language parameter
 		
-		this.contact = "emily.hou@wellesley.edu"
+		this.contact = "emilyhou@mit.edu"
 		this.comissions = false;
 	}
 
